@@ -1,3 +1,3 @@
-# FotoBot: Imitation Learning for Aesthetic Embodiment in Autonomous Robotic Photography
+# LEAP: Learning Embodied Aesthetic Policy for Autonomous Robotic Photography
 
-We will release the codes upon acceptance of the paper.
+We will release the codes, videos, and datasets upon acceptance of the paper.
